@@ -1,0 +1,5 @@
+Player URL:
+https://newtoknhigh.github.io/player/?list=https://raw.githubusercontent.com/newtoknhigh/f0589a4287a123fe/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/newtoknhigh/f0589a4287a123fe/refs/heads/master/github_master.m3u8
